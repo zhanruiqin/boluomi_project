@@ -4,3 +4,4 @@ driver = webdriver.Chrome()
 import time
 driver.get("https://www.baidu.com")
 driver.quit()
+print("shanghai")
